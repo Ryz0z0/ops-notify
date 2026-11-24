@@ -1,0 +1,15 @@
+{
+  "timezone": "Asia/Jerusalem",
+  "quiet_from": "00:30",
+  "quiet_to": "08:00",
+  "center_lat": 31.5,
+  "center_lon": 34.9,
+  "quake_min_mag": 5.0,
+  "quake_radius_km": 1500,
+  "quake_anywhere_mag": 7.0,
+  "kp_alert": 7,
+  "news_per_run": 3,
+  "news_per_hour": 8,
+  "news_queries": ["תל אביב", "ישראל חדשות", "world breaking news"],
+  "news_keywords": ["אזעק", "ירי", "טיל", "רקט", "פיגוע", "פיצוץ", "שריפה", "רעידת אדמה", "סערה", "הצפה", "פינוי", "מחבל", "חדירה", "הרוג", "פצוע", "breaking", "earthquake", "tsunami", "explosion", "attack", "missile", "rocket", "evacuat", "wildfire", "storm", "crash", "killed"]
+}
